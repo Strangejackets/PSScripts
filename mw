@@ -1,0 +1,10 @@
+apache2
+mysql-server php-mysql
+php libapache2-mod-php php-mcrypt
+php-intl
+php-gd
+texlive
+php-mbstring
+php-xml
+php-apcu
+mediawiki
